@@ -1,8 +1,10 @@
 ## Where to stay
 
+Here we provide a list of 4 suggested hotels, a link to nearby Airbnbs, and additional hotels if the top four do not fit your needs. 
+
 **_Suggested Hotels:_**
 
-[The Inn At Longwood Medical](https://www.innatlongwood.com/)
+### [The Inn At Longwood Medical](https://www.innatlongwood.com/)
 
 $176-209
 
@@ -14,7 +16,7 @@ Call (800) 468-2378, or [book online here](https://gc.synxis.com/rez.aspx?Hotel=
 
 *Features: free pass to gym next door*
 
-[Luxury Suites Longwood](https://www.globalluxurysuites.com/accommodation/massachusetts/boston-massachusetts/global-luxury-suites-at-longwood/)
+### [Luxury Suites Longwood](https://www.globalluxurysuites.com/accommodation/massachusetts/boston-massachusetts/global-luxury-suites-at-longwood/)
 
 $203
 
@@ -26,7 +28,7 @@ Call (866) 230-5576, or [book online here](https://www.hotels.com/ho623267648/?q
 
 *Features: apartment style, health club, pool table, business center*
 
-[enVision Longwood](https://envision-hotel-boston.com/)
+### [enVision Longwood](https://envision-hotel-boston.com/)
 
  $244
 
@@ -38,7 +40,7 @@ Call (617) 383- 5229, or [book online here ](https://www.hotels.com/ho407440/?q-
 
 *Features: boutique hotel, health club*
 
-[Midway Hotel](http://www.midtownhotel.com/)
+### [Midway Hotel](http://www.midtownhotel.com/)
 
 $170 
 
@@ -56,7 +58,7 @@ Call (617) 262-1000, or [book online here](https://www.hotels.com/ho115097/?q-ch
 
 **_Additional Hotels:_**
 
-[The Verb Hotel](http://www.theverbhotel.com/)
+### [The Verb Hotel](http://www.theverbhotel.com/)
 
 1271 Boylston Street, Boston, MA 02115
 
@@ -74,7 +76,7 @@ Call 617-566-4500 or [reserve online here ](http://www.theverbhotel.com/)
 
 *Located 1.5 miles away; Complimentary Shuttle Service to Longwood Medical Area*
 
-[ ](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Academy%2520of%2520Integrative%2520Pain%2520Management%255EBOSBL%2560AIPAIPA%2560279%2560USD%2560false%25602%256011/8/18%256011/11/18%256010/10/18&app=resvlink&stop_mobi=yes)[Copley Square Hotel](http://www.copleysquarehotel.com/)
+### [Copley Square Hotel](http://www.copleysquarehotel.com/)
 
 $224
 
@@ -84,7 +86,7 @@ Call (800) 225-7062, or b[ook online here]( https://www.hotels.com/ho114172/?q-c
 
 1.7 miles away
 
-[Courtyard Boston Brookline](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Academy%2520of%2520Integrative%2520Pain%2520Management%255EBOSBL%2560AIPAIPA%2560279%2560USD%2560false%25602%256011/8/18%256011/11/18%256010/10/18&app=resvlink&stop_mobi=yes)  
+###  [Courtyard Boston Brookline](http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Academy%2520of%2520Integrative%2520Pain%2520Management%255EBOSBL%2560AIPAIPA%2560279%2560USD%2560false%25602%256011/8/18%256011/11/18%256010/10/18&app=resvlink&stop_mobi=yes)  
 
 [Reserve here](http://www.marriott.com/)
 
@@ -92,7 +94,7 @@ Or, call 866-296-2296
 
 Located within walking distance.
 
-[Residence Inn Marriott - Boston Back Bay - Fenway](http://www.residenceinnbackbay.com/)
+### [Residence Inn Marriott - Boston Back Bay - Fenway](http://www.residenceinnbackbay.com/)
 
 125 Brookline Avenue, Boston, MA 02215
 
@@ -100,7 +102,7 @@ Located within walking distance.
 
 Call 800-331-3131. You can also book online.
 
-[Courtyard Marriott](http://www.brooklinecourtyard.com/)
+### [Courtyard Marriott](http://www.brooklinecourtyard.com/)
 
 40 Webster Street, Brookline, MA 02446
 
@@ -112,7 +114,7 @@ Call 800-331-3131. You can also book online.
 
 *The Sheraton and Westin are about 10 minute cab ride from the facility and also accessible on the MBTA*
 
-[Crosstown Center](http://www.bostonhamptoninn.com/)
+### [Crosstown Center](http://www.bostonhamptoninn.com/)
 
 811 Massachusetts Ave, Boston, MA
 
@@ -120,7 +122,7 @@ Call 800-331-3131. You can also book online.
 
 *Complimentary Shuttle Service to Longwood Medical Area*
 
-[Commonwealth](http://www.hotelcommonwealth.com/)
+### [Commonwealth](http://www.hotelcommonwealth.com/)
 
 500 Commonwealth Avenue, Boston, MA 02215
 
@@ -128,7 +130,7 @@ Call 800-331-3131. You can also book online.
 
 *Located within a short cab ride*
 
-[Fairmont Copley Plaza Boston](http://www.fairmont.com/copley-plaza-boston)
+### [Fairmont Copley Plaza Boston](http://www.fairmont.com/copley-plaza-boston)
 
 138 St. James Avenue, Boston, MA 0221
 
