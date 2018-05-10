@@ -5,4 +5,16 @@ and everything allowed by the UC Davis travel policy
 All requests for reimbursement (other than mileage & parking meters)
 must be accompanied by an Itemized Receipt.
 
-Please complete the Travel Reimbursement Worksheet for a refund.  
+Please complete the Travel Reimbursement Worksheet for a refund _(Note, you have to download the word file to view it.)_  
+
+## [Per Diem](https://afs.ucdavis.edu/our_services/travel-e-entertainment/foreign-travel/per-diem.html)
+- Meal reimbursement for travel days within the lower 48 states is limited to $62 per day
+
+## [Meal reimbursement](https://afs.ucdavis.edu/our_services/travel-e-entertainment/foreign-travel/per-diem.html)
+- Meal reimbursement for non-travel days is not a per diem and should only be claimed for the amount of actual expenses incurred (not to exceed $62)
+- There must be an overnight stay to claim meal reimbursement
+- Alcohol is not permitted when charging the expense. Put alcohol on a seperate receipt!
+- All tips for meals are included in the same daily limit
+
+## Flights
+You can book them on your own and request a reimbursement without going through AggieTravel first. 
