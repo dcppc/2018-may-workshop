@@ -6,9 +6,9 @@ at the Harvard School of Public Health in Boston, MA._
 
 ### Pages
 - [Attendees](./attendees.md) - 22 registrants so far!
-- [Agenda](./agenda) - _In progress_
+- [Agenda](./agenda.md) - _In progress_
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md)
-- Reimbursements - stay tuned for more updates
+- [Reimbursements](./reimbursements) - details and a reimbursement form
 - [Hotels](./hotels.md) - a list of recommendations
 - [Slack](https://nih-dcppc.slack.com/messages/CALKWLP29/?)
 
@@ -25,10 +25,6 @@ Please note that _registration is required to attend_.
 ## Agenda
 
 The [agenda](./agenda.md) is in progress. Please open an issue to contribute an idea for a breakout session or main event!
-
-## The Consortium is paying! 
-
-Team Copper is happy to reimburse transportation expenses, hotels, Airbnbs, and everything allowed by the [UC Davis travel policy](http://afs.ucdavis.edu/our_services/travel-e-entertainment/policies/index.html) _(since we will be using UC Davis to reimburse expenses for this meeting.)_. Specific details for reimbursement will be provided upon registration. Save your receipts!
 
 ## Childcare
 We know that primary caretakers of dependent children face inequitable hurdles when it comes to attending conferences. We are working on providing a list of all resources on site that will address your needs. Feel free to contact [Team Copper](commons@dib-lab.groups.io) if you have specific questions or concerns. 
