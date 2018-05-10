@@ -6,7 +6,7 @@ at the Harvard School of Public Health in Boston, MA._
 
 ### Pages
 - [Attendees](./attendees.md) - 22 registrants so far!
-- [Agenda](.agenda) - _In progress_
+- [Agenda](./agenda) - _In progress_
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md)
 - Reimbursements - stay tuned for more updates
 - [Hotels](./hotels.md) - a list of recommendations
