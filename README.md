@@ -1,6 +1,6 @@
 # May 2018 DCPPC Workshop 
 
-_ On **May 30-31 in Boston** in the
+_The 2018 May DCPPC workshop will take place on **May 30-31 in Boston** in the
 [Countway Library of Medicine](https://www.google.com/maps/place/Countway+Library+of+Medicine/@42.3351702,-71.1058309,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3798eb633f88d:0xc932ca88d645da0b!8m2!3d42.3351663!4d-71.1036369)
 at the Harvard School of Public Health in Boston, MA._
 
@@ -8,7 +8,7 @@ at the Harvard School of Public Health in Boston, MA._
 - [Attendees](./attendees.md)
 - [Agenda (In progress)](.agenda)
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md)
-- Reimbursement - stay tuned for more updates
+- Reimbursements - stay tuned for more updates
 - [Hotels](./hotels.md)
 - [Slack](https://nih-dcppc.slack.com/messages/CALKWLP29/?)
 
