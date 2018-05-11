@@ -1,6 +1,10 @@
-## Agenda
+---
+layout: page
+title: Agenda
+tagline: 
+---
 
-_Note: The agenda is _in progress_!
+Note: The agenda is _in progress_!
 
 ## General format
 
