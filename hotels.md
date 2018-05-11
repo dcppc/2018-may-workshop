@@ -1,8 +1,8 @@
-## Where to stay
+# Where to stay
 
 Here we provide a list of 4 suggested hotels, a link to nearby Airbnbs, and additional hotels if the top four do not fit your needs. 
 
-**_Suggested Hotels:_**
+## Suggested Hotels
 
 ### [The Inn At Longwood Medical](https://www.innatlongwood.com/)
 
@@ -52,11 +52,11 @@ Call (617) 262-1000, or [book online here](https://www.hotels.com/ho115097/?q-ch
 
 *Features: ADA accessible rooms, swimming pool*
 
-**_AirBnb: _**
+## AirBnb:
 
 **[https://www.airbnb.com/s/10-Shattuck-St--Boston-MA/homes?refinement_paths%5B%5D=%2Fhomes&allow_override%5B%5D=&ne_lat=42.3420725413926&ne_lng=-71.09705824977851&sw_lat=42.3307584438411&sw_lng=-71.11008305675483&zoom=16&search_by_map=true&checkin=2018-05-29&checkout=2018-05-31&s_tag=hPPNA1A**a](https://www.airbnb.com/s/10-Shattuck-St--Boston-MA/homes?refinement_paths%5B%5D=%2Fhomes&allow_override%5B%5D=&ne_lat=42.3420725413926&ne_lng=-71.09705824977851&sw_lat=42.3307584438411&sw_lng=-71.11008305675483&zoom=16&search_by_map=true&checkin=2018-05-29&checkout=2018-05-31&s_tag=hPPNA1Aa)
 
-**_Additional Hotels:_**
+## Additional Hotels:
 
 ### [The Verb Hotel](http://www.theverbhotel.com/)
 
