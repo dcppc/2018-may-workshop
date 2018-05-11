@@ -24,7 +24,7 @@ _We would love_ to have at least 3-5 people from each team and at least 2 people
 Come join us on May 30-31, share all the great work your team is doing, and be inspired by others in the Commons!
 
 ## Registration
-Please visit this website to register: https://ti.to/dcppc/may-data-commons-workshop
+Please visit this website to register: [https://ti.to/dcppc/may-data-commons-workshop](https://ti.to/dcppc/may-data-commons-workshop)
 
 Please note that _registration is required to attend_.
 
