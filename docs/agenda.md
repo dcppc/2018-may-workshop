@@ -14,14 +14,14 @@ at the Harvard School of Public Health in Boston, MA._
 | --- | --- | --- | --- |  
 | 9 AM  | Welcome, intros, organization |    |     |  
 | 12 PM  | Lunch |    |    |
-| 1:30 PM |   | breadkout 1 | breadkout 2   |
+| 1:30 PM |   | breadkout 1 | breadkout 2  |
 | 4 PM | Defriefing and closing |    |  |
 
 
 ## May 31, 2018
 | Time | Lahey Room | 423 | 320 | 
 | --- | --- | --- | --- | 
-| 9 AM  | Welcome, icebreakers, organization  |    |    
-| 12 PM  | Lunch |    |
-| 1:30  |   | breakout 3 | breakout 4   
-| 4 PM | Debriefing and closing |    | 
+| 9 AM  | Welcome, icebreakers, organization  |    |     |    
+| 12 PM  | Lunch |    |  |   
+| 1:30  |   | breakout 3 | breakout 4     |   
+| 4 PM | Debriefing and closing |    |   |   
