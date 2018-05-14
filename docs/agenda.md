@@ -12,10 +12,10 @@ at the Harvard School of Public Health in Boston, MA._
 
 | Time | Lahey Room | 423 | 320 | 
 | --- | --- | --- | --- |  
-| 9 AM  | Welcome, intros, organization |    |    
-| 12 PM  | Lunch |    |    
-| 1:30 PM |   | breadkout 1 | breadkout 2   
-| 4 PM | Defriefing and closing |    | 
+| 9 AM  | Welcome, intros, organization |    |     |  
+| 12 PM  | Lunch |    |    |
+| 1:30 PM |   | breadkout 1 | breadkout 2   |
+| 4 PM | Defriefing and closing |    |  |
 
 
 ## May 31, 2018
