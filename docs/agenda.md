@@ -2,10 +2,6 @@
 layout: page
 title: May 2018 DCPPC Workshop Agenda
 tagline: May 30-31, Harvard School of Public Health, Boston, MA
-------
-layout: page
-title: May 2018 DCPPC Workshop Agenda
-tagline: May 30-31, Harvard School of Public Health, Boston, MA
 ---
 
 _The 2018 May DCPPC workshop will take place on **May 30-31 in Boston** in the
