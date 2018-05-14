@@ -21,7 +21,7 @@ at the Harvard School of Public Health in Boston, MA._
 
  12:30 : Breakout groups
  
- 16:00 : Debriefing and closing    
+ 16:00 : Debriefing  
  
  16:50 : Closing
 
@@ -37,7 +37,7 @@ at the Harvard School of Public Health in Boston, MA._
  
  12:30 : Breakout groups
  
- 16:00 : Debriefing and closing 
+ 16:00 : Debriefing 
  
  16:50 : Closing
  
