@@ -34,3 +34,6 @@ _As of May 14, 4 PM_
     ## 29            Alison Leaf                  Xenon
     ## 30         Saiju Pyarajan                  Xenon
     ## 31      Kristen Cleveland                Yttrium
+    ## 32      Ravi K Madduri                   Argon
+    ## 33      Rick Wagner                      Argon
+    ## 34      Carl Kesselman                   Argon
