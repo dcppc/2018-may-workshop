@@ -5,7 +5,7 @@ _The 2018 May DCPPC workshop will take place on **May 30-31 in Boston** in the
 at the Harvard School of Public Health in Boston, MA._
 
 ### Pages
-- [Attendees](./attendees.md) - 31 registrants so far!
+- [Attendees](./attendees.md) - 36 registrants so far!
 - [Agenda](./agenda.md) - _In progress_
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md)
 - [Reimbursements](./reimbursements) - details and a reimbursement form
@@ -23,8 +23,16 @@ Please visit this website to register: https://ti.to/dcppc/may-data-commons-work
 Please note that _registration is required to attend_.
 
 ## Agenda
-
 The [agenda](./agenda.md) is in progress. Please open an issue to contribute an idea for a breakout session or main event!
+
+## Accessibility
+The path to Countway from Huntington Ave. and Brigham Circle is sunken below street level. Wheelchair access between the two locations requires the use of two outdoor elevators. Each elevator has a call box if you need help. You may also call (617) 432-1379.
+
+* One is on Huntington Ave. near the steps descending from street level to Countway.
+* The other is at the Countway entrance.
+* Even though the building has a lot of stairs, there are elevators to every floor.
+
+Service animals are welcome at Countway.
 
 ## Childcare
 We know that primary caretakers of dependent children face inequitable hurdles when it comes to attending conferences. We are working on providing a list of all resources on site that will address your needs. Feel free to contact [Team Copper](commons@dib-lab.groups.io) if you have specific questions or concerns. 
