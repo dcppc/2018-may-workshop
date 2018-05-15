@@ -31,7 +31,7 @@ at the Harvard School of Public Health in Boston, MA._
  
  09:15 : Group meeting
  
- 11:00 : Planning for breakout gruops   
+ 11:00 : Planning for breakout groups   
  
  12:00 : Lunch         
  
