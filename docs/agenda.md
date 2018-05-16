@@ -8,7 +8,7 @@ _The 2018 May DCPPC workshop will take place on **May 30-31 in Boston** in the
 [Countway Library of Medicine](https://tinyurl.com/ydzxycda)
 at the Harvard School of Public Health in Boston, MA._
 
-_Note: The agenda is in progress!_
+_Note: The agenda is in progress! To propose a breakout session or comment on existing proposals, visit this page: https://github.com/dcppc/2018-may-workshop/issues_
 
 ## May 30, 2018
 
