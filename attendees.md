@@ -1,45 +1,52 @@
 ## Attendees
 
-_As of May 15, 8 PM_
+_As of May 16, 2 PM_
 
 
     ##          Ticket Full Name          Team
-    ## 1              Zac Flamig       Calcium
-    ## 2           Cricket Sloan       Calcium
-    ## 3             Walt Shands       Calcium
-    ## 4        Gregoire Versmee        Carbon
-    ## 5           Laura VERSMEE        Carbon
-    ## 6           Paul Avillach        Carbon
-    ## 7           Jessica Lyons        Carbon
-    ## 8            Rayna Harris        Copper
-    ## 9            Brad Chapman        Copper
-    ## 10     Sarah Wait Zaranek        Copper
-    ## 11         Rebecca Calisi        Copper
-    ## 12         Kristin Ardlie Data Stewards
-    ## 13     Christopher Tabone Data Stewards
-    ## 14            Ben Heavner Data Stewards
-    ## 15               Josh Bis Data Stewards
-    ## 16           Jared Nedzel Data Stewards
-    ## 17         Jeffrey DePons Data Stewards
-    ## 18             Stan Ahalt        Helium
-    ## 19        Claris Castillo        Helium
-    ## 20            Jeremy Yang        Helium
-    ## 21            Sarah Davis        Helium
-    ## 22 valentina di francesco           NIH
-    ## 23          Chip Schwartz           NIH
-    ## 24          Daniel Clarke      Nitrogen
-    ## 25            Avi Ma'ayan      Nitrogen
-    ## 26         Sherry Jenkins      Nitrogen
+    ## 1             Alison Leaf         Xenon
+    ## 2         Anupama Gururaj         Other
+    ## 3             Avi Ma'ayan      Nitrogen
+    ## 4             Ben Heavner Data Stewards
+    ## 5            Brad Chapman        Copper
+    ## 6          Carl Kesselman         Argon
+    ## 7           Chip Schwartz           NIH
+    ## 8      Christopher Tabone Data Stewards
+    ## 9         Claris Castillo        Helium
+    ## 10          Cole Davisson         Other
+    ## 11          Cricket Sloan       Calcium
+    ## 12          Daniel Clarke      Nitrogen
+    ## 13         Daniel S. Katz        Sodium
+    ## 14          Firat Tiryaki         Other
+    ## 15       Gregoire Versmee        Carbon
+    ## 16       Ilyana Rosenberg       Calcium
+    ## 17           Jared Nedzel Data Stewards
+    ## 18         Jeffrey DePons Data Stewards
+    ## 19            Jeremy Yang        Helium
+    ## 20          Jessica Lyons        Carbon
+    ## 21               Josh Bis Data Stewards
+    ## 22          Juergen Klenk      Nitrogen
+    ## 23      Kristen Cleveland       Yttrium
+    ## 24        Kristin Anderka       Calcium
+    ## 25         Kristin Ardlie Data Stewards
+    ## 26          Laura VERSMEE        Carbon
     ## 27    Megan Wojciechowicz      Nitrogen
-    ## 28        Anupama Gururaj         Other
-    ## 29          Firat Tiryaki         Other
-    ## 30          Cole Davisson         Other
-    ## 31           Merce Crosas        Sodium
-    ## 32         Daniel S. Katz        Sodium
-    ## 33            Alison Leaf         Xenon
-    ## 34         Saiju Pyarajan         Xenon
+    ## 28           Merce Crosas        Sodium
+    ## 29          Paul Avillach        Carbon
+    ## 30           Ravi Madduri         Argon
+    ## 31            Ray Idaszak        Helium
+    ## 32           Rayna Harris        Copper
+    ## 33         Rebecca Calisi        Copper
+    ## 34            Rick Wagner         Argon
     ## 35        Ross Rounsevell         Xenon
-    ## 36      Kristen Cleveland       Yttrium
-    ## 37      Ravi K Madduri            Argon
-    ## 38      Rick Wagner               Argon
-    ## 39      Carl Kesselman            Argon
+    ## 36         Saiju Pyarajan         Xenon
+    ## 37            Sarah Davis        Helium
+    ## 38     Sarah Wait Zaranek        Copper
+    ## 39           Sarper Avcil         Xenon
+    ## 40     Sasha Wait Zaranek        Copper
+    ## 41         Sherry Jenkins      Nitrogen
+    ## 42             Stan Ahalt        Helium
+    ## 43              Steve Cox        Helium
+    ## 44 valentina di francesco           NIH
+    ## 45            Walt Shands       Calcium
+    ## 46             Zac Flamig       Calcium
