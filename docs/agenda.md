@@ -14,9 +14,7 @@ _Note: The agenda is in progress!_
 
  09:00 : Welcome
  
- 09:15 : Opening talks
-
- 10:15 : DCPPC operations: project management and demos
+ 09:15 : Opening talks & DCPPC operations
  
  11:00 : Planning for breakout group 
  
