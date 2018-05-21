@@ -11,9 +11,7 @@ Each afternoon of the event will feature breakout collaboration and discussion s
 ### May 30, 2018
 09:00 : Welcome
 
-09:15 : Opening talks
-
-10:15 : DCPPC operations: project management and demos
+09:15 : Opening talks and DCPPC operations
 
 11:00 : Planning for breakout groups
 
