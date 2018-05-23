@@ -1,6 +1,6 @@
 ## Attendees
 
-_As of May 21, 2 PM_
+_As of May 23, 10 AM_
 
     ##          Ticket Full Name          Team
     ## 1         Alexander Jones      Nitrogen
@@ -16,26 +16,26 @@ _As of May 21, 2 PM_
     ## 11          Chip Schwartz           NIH
     ## 12     Christopher Tabone Data Stewards
     ## 13        Claris Castillo        Helium
-    ## 14          Cole Davisson        Oxygen
-    ## 15          Cricket Sloan       Calcium
-    ## 16          Daniel Clarke      Nitrogen
-    ## 17         Daniel S. Katz        Sodium
-    ## 18          Firat Tiryaki        Oxygen
-    ## 19       Gregoire Versmee        Carbon
-    ## 20       Ilyana Rosenberg       Calcium
-    ## 21           Jared Nedzel Data Stewards
-    ## 22         Jeffrey DePons Data Stewards
-    ## 23            Jeremy Yang        Helium
-    ## 24          Jessica Lyons        Carbon
-    ## 25      Jonathan Crabtree    Phosphorus
-    ## 26               Josh Bis Data Stewards
-    ## 27          Juergen Klenk      Nitrogen
-    ## 28      Kristen Cleveland       Yttrium
-    ## 29        Kristin Anderka       Calcium
-    ## 30         Kristin Ardlie Data Stewards
-    ## 31          Laura VERSMEE        Carbon
-    ## 32    Megan Wojciechowicz      Nitrogen
-    ## 33           Merce Crosas        Sodium
+    ## 14          Cricket Sloan       Calcium
+    ## 15          Daniel Clarke      Nitrogen
+    ## 16         Daniel S. Katz        Sodium
+    ## 17          Firat Tiryaki        Oxygen
+    ## 18       Gregoire Versmee        Carbon
+    ## 19       Ilyana Rosenberg       Calcium
+    ## 20           Jared Nedzel Data Stewards
+    ## 21            Jeremy Yang        Helium
+    ## 22          Jessica Lyons        Carbon
+    ## 23      Jonathan Crabtree    Phosphorus
+    ## 24               Josh Bis Data Stewards
+    ## 25          Juergen Klenk      Nitrogen
+    ## 26      Kristen Cleveland       Yttrium
+    ## 27        Kristin Anderka       Calcium
+    ## 28         Kristin Ardlie Data Stewards
+    ## 29          Laura VERSMEE        Carbon
+    ## 30 Laurent-Philippe Albou Data Stewards
+    ## 31    Megan Wojciechowicz      Nitrogen
+    ## 32           Merce Crosas        Sodium
+    ## 33        Meredith Gamble        Copper
     ## 34          Paul Avillach        Carbon
     ## 35           Ravi Madduri         Argon
     ## 36            Ray Idaszak        Helium
@@ -46,13 +46,16 @@ _As of May 21, 2 PM_
     ## 41         Saiju Pyarajan         Xenon
     ## 42            Sarah Davis        Helium
     ## 43     Sarah Wait Zaranek        Copper
-    ## 44           Sarper Avcil         Xenon
-    ## 45     Sasha Wait Zaranek        Copper
-    ## 46         Sherry Jenkins      Nitrogen
-    ## 47             Stan Ahalt        Helium
-    ## 48              Steve Cox        Helium
-    ## 49       Suvarna Nadendla    Phosphorus
-    ## 50 valentina di francesco           NIH
-    ## 51         Vivien Bonazzi           NIH
-    ## 52            Walt Shands       Calcium
-    ## 53             Zac Flamig       Calcium
+    ## 44     Sarala Wimalaratne        Sodium
+    ## 45           Sarper Avcil         Xenon
+    ## 46     Sasha Wait Zaranek        Copper
+    ## 47         Sherry Jenkins      Nitrogen
+    ## 48             Stan Ahalt        Helium
+    ## 49        Stephan Schurer      Nitrogen
+    ## 50              Steve Cox        Helium
+    ## 51       Suvarna Nadendla    Phosphorus
+    ## 52 valentina di francesco           NIH
+    ## 53           Victor Felix    Phosphorus
+    ## 54         Vivien Bonazzi           NIH
+    ## 55            Walt Shands       Calcium
+    ## 56             Zac Flamig       Calcium
