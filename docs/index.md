@@ -9,7 +9,7 @@ _The 2018 May DCPPC workshop will take place on **May 30-31 in Boston** in the
 at the Harvard School of Public Health in Boston, MA._
 
 ### Pages
-- [Attendees](./attendees.md) - Registration if full! The waitlist is still open.
+- [Attendees](./attendees.md) - 56 attendees!
 - [Agenda](./agenda.md) - _In progress_
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md)
 - [Reimbursements](./reimbursements) - details and a reimbursement form
