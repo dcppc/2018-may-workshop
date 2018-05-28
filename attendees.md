@@ -1,6 +1,7 @@
-## Attendees
+# Attendees
 
-_As of May 23, 10 AM_
+
+_As of May 28, 2 PM_
 
     ##          Ticket Full Name          Team
     ## 1         Alexander Jones      Nitrogen
@@ -19,43 +20,46 @@ _As of May 23, 10 AM_
     ## 14          Cricket Sloan       Calcium
     ## 15          Daniel Clarke      Nitrogen
     ## 16         Daniel S. Katz        Sodium
-    ## 17          Firat Tiryaki        Oxygen
-    ## 18       Gregoire Versmee        Carbon
-    ## 19       Ilyana Rosenberg       Calcium
-    ## 20           Jared Nedzel Data Stewards
-    ## 21            Jeremy Yang        Helium
-    ## 22          Jessica Lyons        Carbon
-    ## 23      Jonathan Crabtree    Phosphorus
-    ## 24               Josh Bis Data Stewards
-    ## 25          Juergen Klenk      Nitrogen
-    ## 26      Kristen Cleveland       Yttrium
-    ## 27        Kristin Anderka       Calcium
-    ## 28         Kristin Ardlie Data Stewards
-    ## 29          Laura VERSMEE        Carbon
-    ## 30 Laurent-Philippe Albou Data Stewards
-    ## 31    Megan Wojciechowicz      Nitrogen
-    ## 32           Merce Crosas        Sodium
-    ## 33        Meredith Gamble        Copper
-    ## 34          Paul Avillach        Carbon
-    ## 35           Ravi Madduri         Argon
-    ## 36            Ray Idaszak        Helium
-    ## 37           Rayna Harris        Copper
-    ## 38         Rebecca Calisi        Copper
-    ## 39            Rick Wagner         Argon
-    ## 40        Ross Rounsevell         Xenon
-    ## 41         Saiju Pyarajan         Xenon
-    ## 42            Sarah Davis        Helium
-    ## 43     Sarah Wait Zaranek        Copper
-    ## 44     Sarala Wimalaratne        Sodium
-    ## 45           Sarper Avcil         Xenon
-    ## 46     Sasha Wait Zaranek        Copper
-    ## 47         Sherry Jenkins      Nitrogen
-    ## 48             Stan Ahalt        Helium
-    ## 49        Stephan Schurer      Nitrogen
-    ## 50              Steve Cox        Helium
-    ## 51       Suvarna Nadendla    Phosphorus
-    ## 52 valentina di francesco           NIH
-    ## 53           Victor Felix    Phosphorus
-    ## 54         Vivien Bonazzi           NIH
-    ## 55            Walt Shands       Calcium
-    ## 56             Zac Flamig       Calcium
+    ## 17        Elizabeth Bruce         Other
+    ## 18          Firat Tiryaki        Oxygen
+    ## 19       Gregoire Versmee        Carbon
+    ## 20       Ilyana Rosenberg       Calcium
+    ## 21           Jared Nedzel Data Stewards
+    ## 22         Jeffrey DePons Data Stewards
+    ## 23            Jeremy Yang        Helium
+    ## 24          Jessica Lyons        Carbon
+    ## 25      Jonathan Crabtree    Phosphorus
+    ## 26               Josh Bis Data Stewards
+    ## 27          Juergen Klenk      Nitrogen
+    ## 28      Kristen Cleveland       Yttrium
+    ## 29        Kristin Anderka       Calcium
+    ## 30         Kristin Ardlie Data Stewards
+    ## 31          Laura VERSMEE        Carbon
+    ## 32 Laurent-Philippe Albou Data Stewards
+    ## 33    Megan Wojciechowicz      Nitrogen
+    ## 34           Merce Crosas        Sodium
+    ## 35          Paul Avillach        Carbon
+    ## 36          Rags Srinivas         Other
+    ## 37           Ravi Madduri         Argon
+    ## 38            Ray Idaszak        Helium
+    ## 39           Rayna Harris        Copper
+    ## 40         Rebecca Calisi        Copper
+    ## 41            Rick Wagner         Argon
+    ## 42        Ross Rounsevell         Xenon
+    ## 43         Saiju Pyarajan         Xenon
+    ## 44            Sarah Davis        Helium
+    ## 45     Sarah Wait Zaranek        Copper
+    ## 46     Sarala Wimalaratne        Sodium
+    ## 47           Sarper Avcil         Xenon
+    ## 48     Sasha Wait Zaranek        Copper
+    ## 49         Sherry Jenkins      Nitrogen
+    ## 50             Stan Ahalt        Helium
+    ## 51        Stephan Schürer      Nitrogen
+    ## 52              Steve Cox        Helium
+    ## 53       Suvarna Nadendla    Phosphorus
+    ## 54           Victor Felix    Phosphorus
+    ## 55         Vivien Bonazzi           NIH
+    ## 56            Walt Shands       Calcium
+    ## 57             Zac Flamig       Calcium
+
+
