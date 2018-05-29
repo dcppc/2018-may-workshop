@@ -10,9 +10,9 @@ _For up-to-date information on breakout sessions please visit the [issues page](
 
 ## May 30, 2018
 
- 09:00 : Welcome : Lahey Room (#518)
+ 09:00 : Welcome : Lahey Room (#518) or https://zoom.us/j/229187879
  
- 09:15 : Show and tell talks  : Lahey Room (#518)
+ 09:15 : Show and tell talks  : Lahey Room (#518)  
  
  _In 5 minutes or less, each team will share some awesome things they have accomplished._
  - Copper 
@@ -30,7 +30,7 @@ _For up-to-date information on breakout sessions please visit the [issues page](
   
  10:30 : Coffee break
  
- 11:00 : Planning for breakout group : Lahey Room (#518)
+ 11:00 : Planning for breakout group : Lahey Room (#518) 
  
  12:00 : Lunch         
 
@@ -45,7 +45,7 @@ _For up-to-date information on breakout sessions please visit the [issues page](
 
  09:00 : Welcome : Lahey Room (#518)
  
- 09:15 : Show and tell talks  : Lahey Room (#518)
+ 09:15 : Show and tell talks  : Lahey Room (#518) or https://zoom.us/j/723283404
  
  _In 5 minutes or less, each team will share some awesome things they are planning to accomplish._
 

@@ -6,7 +6,7 @@ _For up-to-date information on breakout sessions please visit the [issues page](
 
 ## May 30, 2018
 
- 09:00 : Welcome : Lahey Room (#518)
+ 09:00 : Welcome : Lahey Room (#518) or https://zoom.us/j/229187879
  
  09:15 : Show and tell talks  : Lahey Room (#518)
  
@@ -39,7 +39,7 @@ _For up-to-date information on breakout sessions please visit the [issues page](
 
 ## May 31, 2018
 
- 09:00 : Welcome : Lahey Room (#518)
+ 09:00 : Welcome : Lahey Room (#518) or https://zoom.us/j/723283404
  
  09:15 : Show and tell talks  : Lahey Room (#518)
  
