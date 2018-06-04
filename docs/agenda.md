@@ -11,30 +11,46 @@ _For up-to-date information on breakout sessions please visit the [issues page](
 ## May 30, 2018
 
  09:00 : Welcome : Lahey Room (#518) or https://zoom.us/j/229187879
+ - Vivien Bonazzi
  
- 09:15 : Show and tell talks  : Lahey Room (#518)  
+ 09:15 : Show and tell talks  : Lahey Room (#518)
  
  _In 5 minutes or less, each team will share some awesome things they have accomplished._
- - Copper 
- - Argon
- - Calcium  
- - Carbon
- - Helium 
- - Nitrogen
- - Oxygen
- - Phosphorus
- - Sodium
- - Xenon
- - Yttrium
- - Data Stewards
+
+- Copper - Charles Reid
+- Argon -  Carl Kesselman
+- Calcium - Cricket Sloan
+- Carbon - Paul Avillache
+- Helium - Claris Castillo
+- Nitrogen - Avi Ma'ayan
+- Oxygen - Anu Gurujra
+- Phosphorus - Jonathan Crabtree
+- Sodium - Sarala Wimalaratne
+- Xenon - Alison Leaf
+- Hydrogen (NIH) - Chip Schwartz
+- Data Stewards - Jos Bis 
+- Data Stewards - Kristin Ardlie 
+- Data Stewards - Laurent-Phillippe Albou
   
  10:30 : Coffee break
  
- 11:00 : Planning for breakout group : Lahey Room (#518) 
+ 11:30 : Planning for breakout group : Lahey Room (#518)
  
  12:00 : Lunch         
 
  12:30 : Breakout groups
+
+- Organization, Room 503
+- Data access, Room 518
+- Identifiers, Room 518
+- Interactions between systems, Room 503
+
+ 14:30 : Coffee break
+ 
+- Project managers, Room 503)
+- BDBAGs, Room 320
+- Interactions staying in same place, Room 503)
+- FAIRness, Room 518
  
  16:00 : Debriefing : Lahey Room (#518)
  
@@ -43,21 +59,37 @@ _For up-to-date information on breakout sessions please visit the [issues page](
 
 ## May 31, 2018
 
- 09:00 : Welcome : Lahey Room (#518)
+ 09:00 : Welcome : Lahey Room (#518) or https://zoom.us/j/723283404
+ - Rayna Harris - Harmonizing the Commoners
+ - Sasha Wait Zaranek - Internal DCPPC webste
  
- 09:15 : Show and tell talks  : Lahey Room (#518) or https://zoom.us/j/723283404
+ 09:15 : Show and tell talks  : Lahey Room (#518)
  
  _In 5 minutes or less, each team will share some awesome things they are planning to accomplish._
+ 
+- Data Stewards: TOPmed - Ben Heavner
+- Data Stewards: GTEx - Jared Nedzel
+- Data Stewards: AGR - Christopher Tabone
+- Calcium and Xenon - Cricket Sloan
+- Sodium - Mercè Crosas
+- Phosphorus - Jonathan Crabtree
+- Nitrogen - Daniel Clarke
+- Helium - Jeremy Yang
+- Carbon - Greg Versmee
+- Argon - Carl Kesselman
+- Nitrogen - Juergen Klenk
 
  10:30 : Coffee break
-
- 11:00 : Planning for breakout groups   
  
  12:00 : Lunch         
  
  12:30 : Breakout groups
  
+- TOPMed overview, Room 518
+- Demo planning and BDbags Room 403 
+- GTEx + Tools, Room 423
+ 
  16:00 : Reconvene for session recaps : Lahey Room (#518)
  
- 16:50 : Closing : Lahey Room (#518)
+ 16:15 : Closing : Lahey Room (#518)
 
