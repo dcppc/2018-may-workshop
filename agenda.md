@@ -11,7 +11,9 @@ _For up-to-date information on breakout sessions please visit the [issues page](
  
  09:15 : Show and tell talks  : Lahey Room (#518)
  
- _In 5 minutes or less, each team will share some awesome things they have accomplished._
+ _Each team shared some awesome things they have accomplished._
+ 
+ _For a video of each talk, visit [this playlist])(https://archive.org/details/commonspilot-may2018workshop-day01).
 
 - Copper - Charles Reid
 - Argon -  Carl Kesselman
@@ -55,13 +57,15 @@ _For up-to-date information on breakout sessions please visit the [issues page](
 
 ## May 31, 2018
 
+_For a video of all May 31 talks, visit [this playlist])(https://archive.org/details/commonspilot-may2018workshop-day02).
+
  09:00 : Welcome : Lahey Room (#518) or https://zoom.us/j/723283404
  - Rayna Harris - Harmonizing the Commoners
  - Sasha Wait Zaranek - Internal DCPPC webste
  
  09:15 : Show and tell talks  : Lahey Room (#518)
  
- _In 5 minutes or less, each team will share some awesome things they are planning to accomplish._
+ _Each team shared some awesome things they are planning to accomplish._
  
 - Data Stewards: TOPmed - Ben Heavner
 - Data Stewards: GTEx - Jared Nedzel
